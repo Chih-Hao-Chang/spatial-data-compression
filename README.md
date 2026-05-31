@@ -30,4 +30,4 @@ The final solution was built in **C++**, using a modular monolithic architecture
 
 ## Team
 
-Group UG13 — 7 members (University of Adelaide, Software Engineering Project 2024)
+Group UG13 — 7 members
